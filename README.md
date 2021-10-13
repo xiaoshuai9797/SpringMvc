@@ -15,3 +15,5 @@ SpringMvc05:处理静态资源，Ant风格、Restful风格的学习
 SpringMvc06: @ResponseBody，再次学习Json和在javaweb中学习的Json对比，下载文件和图片
 
 SpringMvc07:拦截器的作用，用简单的代码了解拦截的作用和其中的方法执行顺序
+
+SpringMvc08:异常处理
